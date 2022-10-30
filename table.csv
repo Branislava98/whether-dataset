@@ -1,0 +1,49 @@
+date,hour,temperature,humidity,cloud cover,wind,UV index,Rain Amount,whether
+4.9.2022,01:00:00 AM,16,94.00%,39.00%,ESE 6km/h,0,0 cm,partly cloudy
+4.9.2022,02:00:00 AM,15,96.00%,85.00%,ESE 7km/h,0,0 cm,partly cloudy
+4.9.2022,03:00:00 AM,14,96.00%,85.00%,ESE 7km/h,0,0 cm,cloudy
+4.9.2022,04:00:00 AM,14,98.00%,84.00%,ESE 7km/h,0,0 cm,cloudy
+4.9.2022,05:00:00 AM,14,98.00%,86.00%,ESE 7km/h,0,0 cm,cloudy
+4.9.2022,06:00:00 AM,14,97.00%,88.00%,ESE 6km/h,0,0 cm,cloudy
+4.9.2022,07:00:00 AM,14,99.00%,88.00%,E 7km/h,0,0 cm,cloudy
+4.9.2022,08:00:00 AM,16,92.00%,76.00%,E 9km/h,0,0 cm,mostly cloudy
+4.9.2022,09:00:00 AM,17,86.00%,81.00%,E 9km/h,1,0 cm,cloudy
+4.9.2022,10:00:00 AM,19,79.00%,67.00%,E 10km/h,3,0 cm,mostly cloudy
+4.9.2022,11:00:00 AM,20,73.00%,60.00%,ESE 10km/h,5,0 cm,mostly cloudy
+4.9.2022,12:00:00 AM,21,67.00%,54.00%,E 9km/h,6,0 cm,partly cloudy
+4.9.2022,01:00:00 PM,22,62.00%,54.00%,E 9km/h,6,0 cm,partly cloudy
+4.9.2022,02:00:00 PM,23,59.00%,59.00%,ENE 9km/h,5,0 cm,partly cloudy
+4.9.2022,03:00:00 PM,23,56.00%,50.00%,ENE 9km/h,4,0 cm,partly cloudy
+4.9.2022,04:00:00 PM,24,53.00%,44.00%,ENE 7km/h,2,0 cm,partly cloudy
+4.9.2022,05:00:00 PM,24,53.00%,35.00%,NE 8km/h,1,0 cm,partly cloudy
+4.9.2022,06:00:00 PM,23,56.00%,31.00%,NE 8km/h,0,0 cm,partly cloudy
+4.9.2022,07:00:00 PM,21,62.00%,32.00%,NE 8km/h,0,0 cm,partly cloudy
+4.9.2022,08:00:00 PM,20,71.00%,25.00%,NE 6km/h,0,0 cm,mostly clear
+4.9.2022,09:00:00 PM,18,77.00%,19.00%,NE 6km/h,0,0 cm,clear
+4.9.2022,10:00:00 PM,18,80.00%,19.00%,ENE 6km/h,0,0 cm,clear
+4.9.2022,11:00:00 PM,17,84.00%,22.00%,NE 5km/h,0,0 cm,mostly clear
+4.9.2022,12:00:00 PM,16,87.00%,33.00%,ENE 5km/h,0,0 cm,partly cloudy
+5.9.2022,01:00:00 AM,16,87.00%,34.00%,ENE 5km/h,0,0 cm,partly cloudy
+5.9.2022,02:00:00 AM,16,89.00%,31.00%,ENE 4km/h,0,0 cm,partly cloudy
+5.9.2022,03:00:00 AM,15,91.00%,27.00%,E 5km/h,0,0 cm,mostly clear
+5.9.2022,04:00:00 AM,15,93.00%,29.00%,E 4km/h,0,0 cm,mostly clear
+5.9.2022,05:00:00 AM,14,96.00%,31.00%,ESE 4km/h,0,0 cm,partly cloudy
+5.9.2022,06:00:00 AM,14,95.00%,38.00%,ESE 4km/h,0,0 cm,partly cloudy
+5.9.2022,07:00:00 AM,15,94.00%,39.00%,E 3 km/h,0,0 cm,partly cloudy
+5.9.2022,08:00:00 AM,17,84.00%,28.00%,WSW 3 km/h,1,0 cm,mostly sunny
+5.9.2022,09:00:00 AM,19,76.00%,14.00%,S 3km/h,2,0 cm,sunny
+5.9.2022,10:00:00 AM,21,69.00%,6.00%,E 5m/h,4,0 cm,sunny
+5.9.2022,11:00:00 AM,22,61.00%,8.00%,E 6km/h,5,0 cm,sunny
+5.9.2022,12:00:00 AM,23,55.00%,15.00%,E 7km/h,6,0 cm,sunny
+5.9.2022,01:00:00 PM,24,52.00%,23.00%,E 7km/h,6,0 cm,mostly sunny
+5.9.2022,02:00:00 PM,24,50.00%,33.00%,ENE 7km/h,6,0 cm,partly cloudy
+5.9.2022,03:00:00 PM,25,48.00%,41.00%,E 7km/h,4,0 cm,partly cloudy
+5.9.2022,04:00:00 PM,25,46.00%,44.00%,E 6km/h,2,0 cm,partly cloudy
+5.9.2022,05:00:00 PM,25,47.00%,50.00%,E 6km/h,1,0 cm,partly cloudy
+5.9.2022,06:00:00 PM,24,50.00%,59.00%,E 6km/h,0,0 cm,partly cloudy
+5.9.2022,07:00:00 PM,22,56.00%,66.00%,E 7km/h,0,0 cm,mostly cloudy
+5.9.2022,08:00:00 PM,21,63.00%,65.00%,E 6km/h,0,0 cm,mostly cloudy
+5.9.2022,09:00:00 PM,20,69.00%,65.00%,E 7km/h,0,0 cm,mostly cloudy
+5.9.2022,10:00:00 PM,19,73.00%,58.00%,E 8km/h,0,0 cm,partly cloudy
+5.9.2022,11:00:00 PM,18,77.00%,41.00%,E 7km/h,0,0 cm,partly cloudy
+5.9.2022,12:00:00 PM,17,79.00%,24.00%,ESE 6km/h,0,0 cm,mostly clear
